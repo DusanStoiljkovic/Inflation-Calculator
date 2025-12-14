@@ -1,3 +1,6 @@
+
+<img width="1914" height="996" alt="Screenshot 2025-12-14 152920" src="https://github.com/user-attachments/assets/1388f27c-0146-4f7d-8d11-94b06937d2b0" />
+
 # Inflation Calculator
 
 A simple web-based inflation calculator that estimates the future value of money based on an annual inflation rate.
